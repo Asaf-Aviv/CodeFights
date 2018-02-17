@@ -1,7 +1,9 @@
 # CodeFights
 
-CodeFights algorithms completed by Asaf Aviv .... yea that`s me :)
+<h3>CodeFights algorithms completed by Asaf Aviv</h1>
 
-Languages used:
-    JavaScript
-    Python
+<h6>Languages used:</h3>
+<ul>
+    <li>JavaScript</li>
+    <li>Python</li>
+</ul>
