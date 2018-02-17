@@ -1,0 +1,1 @@
+const centuryFromYear = y => Math.ceil(y / 100)
