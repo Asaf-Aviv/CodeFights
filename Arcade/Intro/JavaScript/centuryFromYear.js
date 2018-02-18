@@ -1,1 +1,1 @@
-const centuryFromYear = y => Math.ceil(y / 100)
+const centuryFromYear = y => Math.ceil(y / 100);

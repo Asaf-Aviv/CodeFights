@@ -1,3 +1,1 @@
-function checkPalindrome(s) {
-    return (s === s.split('').reverse().join(''));
-}
+const checkPalindrome = s => (s === s.split('').reverse().join(''));
