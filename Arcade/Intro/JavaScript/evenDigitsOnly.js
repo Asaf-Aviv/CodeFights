@@ -1,0 +1,1 @@
+const evenDigitsOnly = n => String(n).split('').every(e => e % 2 === 0)
