@@ -1,0 +1,1 @@
+const firstDigit = s => s.match(/\d/)[0]

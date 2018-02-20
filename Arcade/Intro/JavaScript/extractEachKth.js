@@ -1,0 +1,1 @@
+const extractEachKth = (a, k) => a.filter((v, i) => (i+1) % k)
