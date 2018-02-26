@@ -1,0 +1,1 @@
+const findEmailDomain = address => address.slice(address.lastIndexOf('@')+1)

@@ -1,0 +1,1 @@
+const isDigit = symbol => !isNaN(symbol)
